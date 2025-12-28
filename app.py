@@ -1,1 +1,1 @@
-# new app is coming
+# new app is coming with new features
